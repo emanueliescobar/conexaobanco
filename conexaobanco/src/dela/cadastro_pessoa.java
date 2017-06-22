@@ -42,6 +42,7 @@ public class cadastro_pessoa extends javax.swing.JFrame {
         jLabel1.setText("jLabel1");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Emanueli é Fera");
 
         jLabel2.setText("Código:");
 
